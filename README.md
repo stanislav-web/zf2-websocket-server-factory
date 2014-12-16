@@ -1,5 +1,7 @@
 ZF2 PHP WebSocket Server Factory v2.1 (Extended)
 ------
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stanislav-web/ZF2-PHP-WebSocket-Server-Factory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Alt text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpi209uZxeUrXP6cFLxuFbsTQkm9V0anTgp7Y-ltpEG6sw-txlvg "WebSockets")
 
 Protocol WebSocket (standard RFC 6455) is designed to solve any problems and the removal of restrictions communication between browser and server.It allows you to transfer any data to any domain, safe and almost without unnecessary network traffic.
